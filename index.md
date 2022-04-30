@@ -1,4 +1,4 @@
-Praise for the first edition
+'''Praise for the first edition
 “It’s not just the best current treatment of C++11’s threading facilities ... it’s likely to
 remain the best for some time to come.”
 —Scott Meyers, author of Effective C++ and More Effective C++
@@ -13,8 +13,9 @@ the mouth of one the horses.”
 —Neil Horlock, Director, Credit Suisse
 “Any serious C++ developers should understand the contents of this important book.”
 —Dr. Jamie Allsop, Development Director
+'''
 
-
+'''
 Слава первому изданию
   «Это не просто лучшая текущая обработка средств нарезания резьбы C 11 ... она, вероятно, останется лучшей в течение некоторого времени».
   — Скотт Мейерс, автор книг «Эффективный C» и «Более эффективный C».
@@ -24,3 +25,4 @@ the mouth of one the horses.”
   — Джошуа Хейер, Ingersoll Rand
   «Энтони показывает, как применять параллелизм на практике».
   — Роджер Орр, штат Орегон
+'''
